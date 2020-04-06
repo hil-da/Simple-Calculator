@@ -1,0 +1,5 @@
+/Users/hilda/Projects/Simple-Calculator/Simple-Calculator/bin/Debug/Simple-Calculator.exe
+/Users/hilda/Projects/Simple-Calculator/Simple-Calculator/bin/Debug/Simple-Calculator.pdb
+/Users/hilda/Projects/Simple-Calculator/Simple-Calculator/obj/Debug/Simple-Calculator.csprojAssemblyReference.cache
+/Users/hilda/Projects/Simple-Calculator/Simple-Calculator/obj/Debug/Simple-Calculator.exe
+/Users/hilda/Projects/Simple-Calculator/Simple-Calculator/obj/Debug/Simple-Calculator.pdb
